@@ -3,12 +3,12 @@
 
 ## Initial Setup Instructions
 1. Install Beautfiul Soup 4 for Python using Pip
-```
-pip install beautifulsoup4
-```
+	```
+	pip install beautifulsoup4
+	```
 2. Install the Google Voice Python Library
-Download this:
-[pygooglevoice](https://bwpayne-pygooglevoice-auth-fix.googlecode.com/archive/56f4aaf3b1804977205076861e19ef79359bd7dd.zip)
+	Download this:
+	[pygooglevoice](https://bwpayne-pygooglevoice-auth-fix.googlecode.com/archive/56f4aaf3b1804977205076861e19ef79359bd7dd.zip)
 
 And extract the contents of the archive and run:
 ```
